@@ -1,5 +1,5 @@
 {
-    "name": "AtServer/YafRoute",
+    "name": "at_server/yafroute",
     "description": "YafRoute",
     "license": "MIT",
     "type": "library",
